@@ -19,8 +19,9 @@ body {
 }
 
 .thumbnail {
-    padding: 0;
-    background-color: #a0a0a0;
+    text-align: center;
+    background-color: #337ab7;
+    color: #fff;
 }
 
 .thumbnail .caption-full {

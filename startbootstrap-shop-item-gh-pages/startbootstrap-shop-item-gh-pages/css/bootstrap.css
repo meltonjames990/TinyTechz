@@ -4998,6 +4998,7 @@ a.badge:focus {
     font-size: 63px;
   }
 }
+
 .thumbnail {
   display: block;
   padding: 4px;
@@ -5316,7 +5317,7 @@ button.list-group-item {
 .list-group-item.active .list-group-item-heading > .small,
 .list-group-item.active:hover .list-group-item-heading > .small,
 .list-group-item.active:focus .list-group-item-heading > .small {
-  color: inherit;
+  color: #red;
 }
 .list-group-item.active .list-group-item-text,
 .list-group-item.active:hover .list-group-item-text,
