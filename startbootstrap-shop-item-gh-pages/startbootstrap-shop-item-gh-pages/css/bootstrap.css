@@ -4941,7 +4941,7 @@ a.badge:focus {
   text-decoration: none;
   cursor: pointer;
 }
-.list-group-item.active > .badge,
+. .active > .badge,
 .nav-pills > .active > a > .badge {
   color: #337ab7;
   background-color: #fff;
