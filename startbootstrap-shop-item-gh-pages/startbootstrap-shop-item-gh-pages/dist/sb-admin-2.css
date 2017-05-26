@@ -284,6 +284,7 @@ table.dataTable thead .sorting:after {
   padding: 20px 0 20px;
   list-style: none;
 }
+
 .timeline:before {
   content: " ";
   position: absolute;
