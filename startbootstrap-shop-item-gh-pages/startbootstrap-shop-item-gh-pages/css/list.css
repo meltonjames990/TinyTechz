@@ -1,1 +1,9 @@
 #teacherdetail { margin: 15px;}
+
+.star-rating {
+  line-height:32px;
+  font-size:1.25em;
+  text-align: left;
+}
+
+.star-rating .fa-star{color: blue;}
