@@ -43,6 +43,8 @@ audio:not([controls]) {
 template {
   display: none;
 }
+
+.panel-heading {background-color: #ffffff;}
 a {
   background-color: transparent;
 }
